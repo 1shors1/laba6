@@ -1,0 +1,4 @@
+﻿  laba6.c
+C:\Users\kiril\source\repos\ConsoleApplication3\ConsoleApplication3\laba6.c(276,5): warning C4013: 'SetConsoleOutputCP' undefined; assuming extern returning int
+C:\Users\kiril\source\repos\ConsoleApplication3\ConsoleApplication3\laba6.c(277,5): warning C4013: 'SetConsoleCP' undefined; assuming extern returning int
+  ConsoleApplication3.vcxproj -> C:\Users\kiril\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
